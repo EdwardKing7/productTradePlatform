@@ -8,8 +8,8 @@ spring:
   #数据库配置
   datasource:
     url: jdbc:mysql://localhost:3306/DB_School_trade?serverTimezone=UTC&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT&allowPublicKeyRetrieval=true&useSSL=false
-    username: root
-    password: wcx1qaz@WSX
+    username: 账户
+    password: 密码
     driver-class-name: com.mysql.cj.jdbc.Driver
   #web文件限制配置
   servlet:
