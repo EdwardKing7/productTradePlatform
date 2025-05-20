@@ -19,7 +19,7 @@ module.exports = {
     devServer: {
         proxy: {
             '/api':{
-                target:'http://60.204.159.70:8081',
+                target:'后台服务的访问地址',
                 changeOrigin:true,
                 pathRewrite:{
                     '/api':''
