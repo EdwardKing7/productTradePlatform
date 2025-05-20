@@ -23,7 +23,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
 
 #文件路径
-baseUrl: http://60.204.159.70:8080
+baseUrl: 文件服务器url
 #C:/exam/xxx/pic  注意这个文件夹路径最好不要有中文，容易出问题！！
 userFilePath: /myservice/server/statics/pic
 
